@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/RoAriel/eis_201802c_tp_grupal.svg?branch=master)](https://travis-ci.org/RoAriel/eis_201802c_tp_grupal)
+
 ## Objetivos del TP-Final Grupal
   Construir un sitio web <strong>'SETFLIX'</strong> donde se puedan armar colecciones de series que se cargan y que los usuarios pueden subir.
 Las colecciones no son con los episodios de las series si no mas bien una colección de títulos, en la que los usuarios
